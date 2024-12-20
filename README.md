@@ -17,7 +17,7 @@ TDD_blog/
         test_comments.py
         test_authors.py
     requirements.txt
-    pyproject.toml (or setup.cfg)
+    .gitignore
     README.md
 ```
 
@@ -126,4 +126,8 @@ Open `htmlcov/index.html` in your browser to view a detailed coverage report.
 - **Demonstrate TDD**: Write tests first, then implement code to make tests pass.
 - **Ensure High Test Coverage**: By writing thorough tests for each method, we aim for close to 100% coverage.
 - **Maintain Code Quality**: The tests serve as a safety net to prevent regression and encourage clean, maintainable code.
+
+### Result
+
+![Screenshots of the project](Result/result.png)
 
