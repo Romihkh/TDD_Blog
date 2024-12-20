@@ -129,5 +129,5 @@ Open `htmlcov/index.html` in your browser to view a detailed coverage report.
 
 ### Result
 
-![Screenshots of the project](Result/result.png)
+![Screenshots of the project](result.png)
 
